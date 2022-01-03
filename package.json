@@ -4,6 +4,7 @@
   "description": "Common configuration for Typescript-based projects",
   "homepage": "https://github.com/alexghr/ts",
   "author": "Alex Gherghisan <alexghr@users.noreply.github.com> (https://alexghr.me)",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexghr/ts.git"
