@@ -1,6 +1,6 @@
 {
   "name": "@alexghr/ts",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Common configuration for Typescript-based projects",
   "homepage": "https://github.com/alexghr/ts",
   "author": "Alex Gherghisan <alexghr@users.noreply.github.com> (https://alexghr.me)",
