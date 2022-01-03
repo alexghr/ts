@@ -11,8 +11,8 @@
   "bugs": {
     "url": "https://github.com/alexghr/ts/issues"
   },
-  "dependencies": {
-    "typescript": "^3.7.4"
+  "peerDependencies": {
+    "typescript": "*"
   },
   "tsconfig": "./tsconfig.json"
 }
